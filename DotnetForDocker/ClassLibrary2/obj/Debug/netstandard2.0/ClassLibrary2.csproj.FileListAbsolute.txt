@@ -1,0 +1,9 @@
+D:\GitHub\dotnetfordocker\DotnetForDocker\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.deps.json
+D:\GitHub\dotnetfordocker\DotnetForDocker\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.dll
+D:\GitHub\dotnetfordocker\DotnetForDocker\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.pdb
+D:\GitHub\dotnetfordocker\DotnetForDocker\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csprojAssemblyReference.cache
+D:\GitHub\dotnetfordocker\DotnetForDocker\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\GitHub\dotnetfordocker\DotnetForDocker\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfoInputs.cache
+D:\GitHub\dotnetfordocker\DotnetForDocker\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfo.cs
+D:\GitHub\dotnetfordocker\DotnetForDocker\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.dll
+D:\GitHub\dotnetfordocker\DotnetForDocker\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.pdb
