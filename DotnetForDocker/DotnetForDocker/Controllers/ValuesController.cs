@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using ClassLibrary1;
 using ClassLibrary2;
+using DotnetForDocker.ApiConnector;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DotnetForDocker.Controllers
@@ -14,11 +15,11 @@ namespace DotnetForDocker.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public async Task<IActionResult> Get()
         {
-            Lib1 lib1 = new Lib1();
-            Lib2 lib2 = new Lib2();
-            return new string[] { "value1", "value2", lib1.Hello(), lib2.Hello() };
+            var requestUri = "http://35.240.134.131:4790/api/values";
+            var response = await HttpRequestFactory.Get(requestUri);
+            return Ok(response.ContentAsString());
         }
 
         // GET api/values/5

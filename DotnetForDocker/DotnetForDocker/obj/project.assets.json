@@ -12118,11 +12118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\dotnetfordocker\\DotnetForDocker\\DotnetForDocker\\DotnetForDocker.csproj",
+      "projectUniqueName": "d:\\GitHub\\dotnetfordocker\\DotnetForDocker\\DotnetForDocker\\DotnetForDocker.csproj",
       "projectName": "DotnetForDocker",
-      "projectPath": "D:\\GitHub\\dotnetfordocker\\DotnetForDocker\\DotnetForDocker\\DotnetForDocker.csproj",
+      "projectPath": "d:\\GitHub\\dotnetfordocker\\DotnetForDocker\\DotnetForDocker\\DotnetForDocker.csproj",
       "packagesPath": "C:\\Users\\KANORPOKPOK\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\dotnetfordocker\\DotnetForDocker\\DotnetForDocker\\obj\\",
+      "outputPath": "d:\\GitHub\\dotnetfordocker\\DotnetForDocker\\DotnetForDocker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12141,11 +12141,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\GitHub\\dotnetfordocker\\DotnetForDocker\\ClassLibrary1\\ClassLibrary1.csproj": {
-              "projectPath": "D:\\GitHub\\dotnetfordocker\\DotnetForDocker\\ClassLibrary1\\ClassLibrary1.csproj"
+            "d:\\GitHub\\dotnetfordocker\\DotnetForDocker\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "d:\\GitHub\\dotnetfordocker\\DotnetForDocker\\ClassLibrary1\\ClassLibrary1.csproj"
             },
-            "D:\\GitHub\\dotnetfordocker\\DotnetForDocker\\ClassLibrary2\\ClassLibrary2.csproj": {
-              "projectPath": "D:\\GitHub\\dotnetfordocker\\DotnetForDocker\\ClassLibrary2\\ClassLibrary2.csproj"
+            "d:\\GitHub\\dotnetfordocker\\DotnetForDocker\\ClassLibrary2\\ClassLibrary2.csproj": {
+              "projectPath": "d:\\GitHub\\dotnetfordocker\\DotnetForDocker\\ClassLibrary2\\ClassLibrary2.csproj"
             }
           }
         }
